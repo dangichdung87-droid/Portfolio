@@ -38,12 +38,6 @@ const projectData = {
     description: "A web application concept for managing online clinic appointments. The project includes patient, doctor and staff workflows, appointment scheduling and payment-related business rules.",
     tech: ["Java", "Servlet/JSP", "SQL Server", "Tomcat"]
   },
-  loan: {
-    type: "Database",
-    title: "Loan Management System",
-    description: "A SQL Server database project that manages customers and loans. It uses primary keys, foreign keys, validation constraints, default values and practical SQL queries.",
-    tech: ["SQL Server", "DDL", "DML", "Constraints"]
-  },
   employee: {
     type: "Database",
     title: "Employee Management",
