@@ -96,7 +96,7 @@ button { cursor: pointer; }
 .about-facts strong { text-align: right; font-size: .9rem; }
 
 /* Skills */
-.skills-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+.skills-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
 .skill-card {
   padding: 28px; background: var(--surface); border: 1px solid var(--border);
   border-radius: var(--radius); transition: transform .2s, border-color .2s;
